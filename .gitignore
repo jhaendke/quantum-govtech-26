@@ -1,0 +1,8 @@
+/_tmp
+
+# Exclude specific graphics
+*.psd
+*.ai
+*.eps
+*.svg
+
